@@ -1,0 +1,197 @@
+.container {
+    width: 750px;
+    height: 500px;
+    border: 2px solid red;
+}
+
+.background_img {
+    background-image: url('main_image.jpg');
+    width: 100%;
+    height: 65%;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.logo {
+    width: 100%;
+    background: rgba(60, 3, 3, 0.5);
+    /* padding-left:15px; */
+}
+
+.leftmargin {
+    padding-left: 30px;
+}
+
+.blue_border {
+    background-color: aqua;
+    width: 40px;
+    height: 12px;
+    margin-top: 10px;
+}
+
+.logo_name {
+    font-size: 50px;
+    margin-top: -10px;
+    color: white;
+}
+
+.logo_title {
+    color: white;
+    font-size: 20px;
+    margin-top: -15px;
+}
+
+.logo_description {
+    color: white;
+    margin-top: -17px;
+}
+
+.blanck_div {
+    width: 100%;
+    height: 80px;
+}
+
+.third_div {
+    width: 62%;
+    /* margin-top:10px; */
+    height: 110px;
+    background: rgba(230, 204, 10, 0.5);
+}
+
+.third_div h2 {
+    padding-top: 15px;
+    font-size: 37px;
+    color: white;
+}
+
+.third_div h4 {
+    color: white;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.language_div {
+    margin-left: 62%;
+    margin-top: -340px;
+    height: 231px;
+    background: rgba(248, 250, 247, 0.5);
+}
+
+ul.language_name {
+    list-style-type: square;
+    font-size: 20px;
+    direction: rtl;
+}
+
+.language_name {
+    text-align: right;
+    padding-top:48px;
+    font-size: 20px;
+    color: white;
+}
+
+.address {
+    margin-left: 62%;
+    margin-top: 5px;
+    width: auto;
+    height: 100px;
+    font-size: 14px;
+    color: white;
+    background: rgba(7, 7, 7, 0.5)
+}
+
+.add {
+    padding-top: 5px;
+    direction: rtl;
+    text-align: right;
+    color: white;
+}
+
+.street {
+    margin-top: -18px;
+    direction: rtl;
+    text-align: right;
+}
+
+.phone {
+    margin-top: -18px;
+    direction: rtl;
+    text-align: right;
+}
+
+.number {
+    margin-top: -38px;
+    direction: rtl;
+    text-align: right;
+    padding-right: 60px;
+}
+
+.mail {
+    margin-top: -18px;
+    direction: rtl;
+    text-align: right;
+}
+
+.email {
+    margin-top: -38px;
+    direction: rtl;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.web {
+    margin-top: -18px;
+    direction: rtl;
+    text-align: right;
+}
+
+.weburl {
+    margin-top: -38px;
+    direction: rtl;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.first_title {
+    color: red;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.first_description {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.details {
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.coder {
+    margin-left: 62%;
+    margin-top: -122px;
+    width: auto;
+    height: 100px;
+    color: white;
+    background:rgba(3,169,245,255);
+}
+
+.coder_img {
+    padding-top:58%;
+    transform: rotate(225deg);
+    border-radius: 0% 0% 50% 50%;
+}
+.coder_text{
+    margin-left:39%;
+    font-size:40px;
+    margin-top:-190px;
+    color: white;
+}
+.logo_company{
+    padding-left:110px;
+    margin-top:-15px;
+    font-size:15px;
+    color: white;   
+}
+    
